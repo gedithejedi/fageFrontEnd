@@ -13,7 +13,7 @@ const PostFeed = (props) => {
 						<p>{postItem.post}</p>
 					</div>
 				</Link>
-			))}
+			))} 
 		</div>
 
 	);
