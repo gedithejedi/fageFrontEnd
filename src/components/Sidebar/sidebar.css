@@ -1,0 +1,9 @@
+.section-sidebar {
+    width: 20%;
+    background-color: aliceblue;
+}
+
+.sidebar-menu {
+    display: flex;
+    flex-direction: column;
+}

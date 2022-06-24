@@ -1,0 +1,12 @@
+{
+  "posts": [
+    {
+      "id": 0,
+      "post": "This is my first posts and it is very important"
+    },
+    {
+      "id": 1,
+      "post": "This is the second post which is more important than the first"
+    }
+  ]
+}
